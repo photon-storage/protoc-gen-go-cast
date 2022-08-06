@@ -1,4 +1,4 @@
-module github.com/prysmaticlabs/protoc-gen-go-cast
+module github.com/photon-storage/protoc-gen-go-cast
 
 go 1.15
 
